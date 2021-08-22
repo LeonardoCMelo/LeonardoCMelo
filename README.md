@@ -1,8 +1,8 @@
 ### Hi, I'm Leonardo Melo 👋
 
 - Actually I'm working on personal projects
-- As a hobbie I'm learning to use SDL2, a graphical library for C++
-- Meu Discord é `Unoxya#2507` 
+- As a hobbie I'm learning SDL2, a graphical library for C++
+- My Discord is `Unoxya#2507`
 
 <div>
   <a href="https://github.com/LeonardoCMelo">
