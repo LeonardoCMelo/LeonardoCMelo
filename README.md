@@ -1,13 +1,12 @@
 ### Hi, I'm Leonardo Melo 👋
 
 - Actually I'm working on personal projects
-- As a hobbie I'm learning SDL2, a graphical library for C++
-- My Discord is `Unoxya#2507`
-
-<div>
+- 🌱As a hobby, I'm learning SDL, a graphical library for C++
+- My Discord: `@Unoxya#2507`
+<div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCMelo&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeonardoCMelo&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
 <div style="display: inline-block"><br>
