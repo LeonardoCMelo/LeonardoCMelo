@@ -2,6 +2,7 @@
 
 - ⚙️Actually I'm working on personal projects
 - 🌱As a hobby, I'm learning SDL, a graphical library for C++
+- 📓CS50's student
 - 🔗My Discord: `@Unoxya#2507`
 <div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
