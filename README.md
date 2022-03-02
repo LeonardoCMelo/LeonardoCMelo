@@ -1,8 +1,6 @@
 ### Hi, I'm Leonardo Melo 👋
 
-- ⚙️Actually I'm working on personal projects
-- 🌱As a hobby, I'm learning SDL, a graphical library for C++
-- 📓CS50's student
+- ⚙️Actually I'm working on personal projects and doing a internship for my technical course
 - 🔗My Discord: `@Unoxya#2507`
 <div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
