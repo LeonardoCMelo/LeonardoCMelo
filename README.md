@@ -1,7 +1,7 @@
 ### Hi, I'm Leonardo Melo 👋
 
-- ⚙️Actually I'm working on personal projects and doing a internship for my technical course
-- 🔗My Discord: `@Unoxya#2507`
+- ⚙️Actually I'm learning JavaScript on my free time and working with SolidWorks (which is a 3D CAD) in a company near my house
+- 🔗My Discord: `@Unoxya#4144`
 <div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
@@ -11,8 +11,6 @@
 <div style="display: inline-block"><br>
   <img align="center" alt="Leo-arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
   <img align="center" alt="Leo-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="Leo-cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Leo-python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   
 </div>
 </a>
