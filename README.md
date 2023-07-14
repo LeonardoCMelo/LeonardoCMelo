@@ -1,7 +1,7 @@
 ### Hi, I'm Leonardo Melo 👋
 
-- ⚙️Actually I'm learning JavaScript on my free time and working with SolidWorks (which is a 3D CAD) in a company near my house
-- 🔗My Discord: `@Unoxya#4144`
+- ⚙️Actually I'm learning SDL2 on my free time and working with SolidWorks (which is a 3D CAD) in a company near my house
+- 🔗My Discord: `@unoxya`
 <div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=LeonardoCMelo&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
