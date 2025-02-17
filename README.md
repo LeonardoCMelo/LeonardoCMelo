@@ -1,6 +1,6 @@
 ### Hi, I'm Leonardo Melo 👋
 
-- ⚙️Actually I'm learning SDL3 with C# on my free time and working with SolidWorks (which is a 3D CAD) and C#
+- ⚙️Actually I'm learning SDL3 with C++ on my free time and working with SolidWorks (which is a 3D CAD) and C#
 - 🔗My Discord: `@unoxya`
 <div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
