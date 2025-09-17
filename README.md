@@ -1,6 +1,7 @@
 ### Hi, I'm Leonardo Melo 👋
 
-- ⚙️Actually I'm learning SDL3 with C++ on my free time and working with SolidWorks (which is a 3D CAD) and C#
+- ⚙️Actually I'm learning Python on my University course and working with SolidWorks and C#
+- My known languages: English (Advanced), Portuguese (fluent), Japanese (N4)
 - 🔗My Discord: `@unoxya`
 <div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
@@ -9,9 +10,9 @@
 </div>
 
 <div style="display: inline-block"><br>
-  <img align="center" alt="Leo-arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
+  <img align="center" alt="Leo-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="Leo-c" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
-  
+  <img align="center" alt="Leo-arduino" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
 </a>
 
