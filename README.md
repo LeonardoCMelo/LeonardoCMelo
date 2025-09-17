@@ -1,7 +1,7 @@
 ### Hi, I'm Leonardo Melo 👋
 
 - ⚙️Actually I'm learning Python on my University course and working with SolidWorks and C#
-- My known languages: English (Advanced), Portuguese (fluent), Japanese (N4)
+- My known languages: English 🇨🇦 (Advanced), Portuguese 🇧🇷 (fluent), Japanese 🇯🇵 (N4)
 - 🔗My Discord: `@unoxya`
 <div style="display: inline_block">
   <a href="https://github.com/LeonardoCMelo">
